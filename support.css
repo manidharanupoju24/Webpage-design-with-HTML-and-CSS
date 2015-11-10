@@ -1,0 +1,17 @@
+*{
+	background-color: #78909C
+}
+
+h1{
+	text-align: center;
+	
+}
+body{
+	font-family:Geneva;
+}
+a:visited{
+	color : #1B5E20;
+}
+a:hover{
+	text-decoration: none;
+}
