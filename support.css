@@ -1,24 +1,41 @@
 .image{
 	background-image: url('http://images4.fanpop.com/image/photos/22600000/Itachi-Uchiha-itachi-uchiha-22633031-1280-800.jpg');
+	border: 1px solid green;
 }
-
-
-
+.button{
+	border-radius: 5px;
+	border: 2px solid #1B5E20;
+	height:50px;
+	width:120px;
+	margin:auto;
+	text-align: center;
+	background-color: #0091EA;
+	text-decoration: none;
+.alag{
+	text-decoration: none;
+}
+}
+span{
+	color:#FFFFFF;
+	font-weight: bold;
+}
 h1{
 	text-align: center;
 	color: #D50000;
 	
 }
 body{
-	font-family:Geneva;
+	font-family:Verdana;
 	color: #D50000;
 }
-a:visited{
+ol ul a:visited{
 	color : #1B5E20;
 }
-a:hover{
+ol ul a:hover{
 	text-decoration: none;
 }
-a:active{
+ol ul a:active{
 	color:#D50000;
 };
+
+
